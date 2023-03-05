@@ -46,6 +46,7 @@ In the future I plan on adding a custom music feature which would enable adding 
 The music is copyright free. Or at least its supposed to be copyright free.
 
 **Assets:**
+
 [Toyota Trueno](https://sketchfab.com/3d-models/toyota-ae86-sprinter-trueno-zenki-a5737bf3cc9b4179a6e5ebe173ff70d9)
 
 [Electric Guitar](https://sketchfab.com/3d-models/electric-guitar-explorer-a7ffc570d3fe41c89b9dde195ab0faea)
