@@ -25,7 +25,7 @@ In the future I plan on adding a custom music feature which would enable adding 
 
 # Credits
 |Music  |
-|--|--|
+|--|
 |Bettogh - Another World | 
 |Mattie Pride - Am I Happy|
 |Night Raptor - Shoreline|
@@ -42,6 +42,7 @@ In the future I plan on adding a custom music feature which would enable adding 
 |TeknoAXE - Mellow Aether|
 |Three Chain Links – Hot Nights in Los Angeles|
 |YungMustiWWA - Takimi Normalnymi|
+
 The music is copyright free. Or at least its supposed to be copyright free.
 
 **Assets:**
