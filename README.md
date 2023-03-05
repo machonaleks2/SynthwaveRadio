@@ -9,18 +9,18 @@ The graphics are deliberately low-key and minimalistic. The game's interface is 
 # How to play? 
 
  - Go to the [releases tab](https://github.com/machonaleks2/SynthwaveRadio/releases/tag/Game)
- ![.](https://imgur.com/a/xRjCj63)
+
  - Click on the [SyntwaveRadio.rar](https://github.com/machonaleks2/SynthwaveRadio/releases/download/Game/SyntwaveRadio.rar) (<--or you may just click the link here <--)
  - Unzip the file and click on the SynthwaveRadio.exe file to open the game.
- ![.](https://imgur.com/a/MwykhzZ)
+
  - done, press Alt+Tab if you would like to stop the game.
 
 # What it features?
 
 The game does not have many features to make it very easy to play. 
-![Preview](https://imgur.com/a/lq1zewT)
+
 You may look around as you drive through the highway, looking at you surroundings. There are two white buttons which you can click to change music. 
-![Preview](https://imgur.com/gallery/3m5e6bT)
+
 In the future I plan on adding a custom music feature which would enable adding your own favourite songs to the game.
 
 # Credits
