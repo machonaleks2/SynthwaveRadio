@@ -20,7 +20,7 @@ The graphics are deliberately low-key and minimalistic. The game's interface is 
 The game does not have many features to make it very easy to play. 
 ![Preview](https://imgur.com/a/lq1zewT)
 You may look around as you drive through the highway, looking at you surroundings. There are two white buttons which you can click to change music. 
-![Preview](https://imgur.com/a/3m5e6bT)
+![Preview](https://imgur.com/gallery/3m5e6bT)
 In the future I plan on adding a custom music feature which would enable adding your own favourite songs to the game.
 
 # Credits
