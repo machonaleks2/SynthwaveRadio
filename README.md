@@ -47,8 +47,11 @@ The music is copyright free. Or at least its supposed to be copyright free.
 
 **Assets:**
 [Toyota Trueno](https://sketchfab.com/3d-models/toyota-ae86-sprinter-trueno-zenki-a5737bf3cc9b4179a6e5ebe173ff70d9)
+
 [Electric Guitar](https://sketchfab.com/3d-models/electric-guitar-explorer-a7ffc570d3fe41c89b9dde195ab0faea)
+
 [Among Us Figure](https://sketchfab.com/3d-models/among-us-jotaro-da5940db7bec41cb9e7d4633f8283bf5)
+
 [Rei Ayanami Plushie](https://sketchfab.com/3d-models/rei-ayanami-plushie-0bda564e1d804c2f84950cec57db15d3)
 
 (Rest of the assets were either made by me or downloaded from the unity assets store)
